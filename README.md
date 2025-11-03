@@ -1,18 +1,18 @@
 ## Olá, seja bem-vindo ao meu Git Hub  👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Improving+on+Java+Development+.+.+.+)](https://git.io/typing-svg)
-<h2>First languages : </h2>
-<div aling = "center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Improving+in+Java+Development+.+.+.+)](https://git.io/typing-svg)
+<h2>My Languages : </h2>
+<div aling = "left ">
   <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-</div>
-<h2>New languages : </h2>
-<div>
+  
   <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
 </div>
 
 <div>
+  
   - 🔭 I’m currently working on back - end
   
   - 🌱 I’m currently learning Java
