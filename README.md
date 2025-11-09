@@ -10,7 +10,7 @@
   <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
 </div>
-<h2>Learning</h2>
+<h2>Learning : </h2>
 <div>
   <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" />
 </div>
