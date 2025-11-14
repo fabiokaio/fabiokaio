@@ -1,4 +1,4 @@
-## Olá, seja bem-vindo ao meu Git Hub  👋
+## Hello, welcome to my Git Hub  👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Improving+in+Java+Development+.+.+.+)](https://git.io/typing-svg)
 <h2>My Languages : </h2>
 <div aling = "left ">
